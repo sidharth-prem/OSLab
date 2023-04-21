@@ -24,7 +24,7 @@ This includes the programes I did in the OS Lab
   
   ********************************************************************
   
-  PART 1- SCHEDULING AlGORITHM PROGRAMS
+  PART 2- SCHEDULING AlGORITHM PROGRAMS
   
   ******************************************************************
   
