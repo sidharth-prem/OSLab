@@ -35,3 +35,23 @@ This includes the programes I did in the OS Lab
   3. Priority Scheduling
   
   4. Round Robin Algorithm.
+
+  5. Bankers Algorithm
+
+  6. Linear Fork
+
+  7. 
+
+  8. Sleep System Call
+  
+  9. Wait system Call
+
+  ********************************************************************
+  
+  PART 3- DISK SCHEDULING AlGORITHM PROGRAMS
+  
+  ******************************************************************
+  
+  1. FCFS Disk Scheduling
+
+  2. SCAN Disk Scheduling
