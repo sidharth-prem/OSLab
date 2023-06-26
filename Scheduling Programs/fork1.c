@@ -4,7 +4,7 @@
 void main(){
     printf("I am A!\n");
     printf("My ID is: %d.\n",getpid());
-    printf("My parent ID is: %d.\n",getppid());
+    //printf("My parent ID is: %d.\n",getppid());
     int c=fork();
     if(c==0){
         printf("I am B!\n");
