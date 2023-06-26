@@ -40,7 +40,7 @@ This includes the programes I did in the OS Lab
 
   6. Linear Fork
 
-  7. 
+  7. Binary Fork
 
   8. Sleep System Call
   
